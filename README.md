@@ -21,4 +21,4 @@ As próximas versões deste game serão as modificações necessárias ade forma
 <p> Arraste o dedo nas frutas que surgirão somando pontos</p>
 
 <br><br>
-<img src="https://s9.postimg.org/iacsaldwv/img.png" width="700" height="400">
+<img src="https://raw.githubusercontent.com/EuFreela/game-3/master/img.png" width="700" height="400">
